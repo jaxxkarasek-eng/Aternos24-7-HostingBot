@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": " jaxxkarasek.aternos.me:33548",
+    "port": 33548,
     "version": "",
     "try-creative": false
   },
